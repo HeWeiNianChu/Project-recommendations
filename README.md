@@ -16,7 +16,7 @@
 
 | 脚本名称 | 脚本功能 | 安装 \| 备用 |
 | :---- | :---- | :----: |
-| **知乎 美化** | 宽屏显示、隐藏文章开头大图、文章编辑页面与实际文章宽度一致... | **[安装](https://greasyfork.org/zh-CN/scripts/412212)** \| **[备用](https://cdn.jsdelivr.net/gh/XIU2/UserScript@master/Zhihu-Beautification.user.js)** |
+| **Listen1** | 宽屏显示、隐藏文章开头大图、文章编辑页面与实际文章宽度一致... | **[安装](https://greasyfork.org/zh-CN/scripts/412212)** \| **[备用](https://cdn.jsdelivr.net/gh/XIU2/UserScript@master/Zhihu-Beautification.user.js)** |
 | **知乎 增强** | 移除登录弹窗、一键收起回答、置顶显示时间、区分问题文章... | **[安装](https://greasyfork.org/zh-CN/scripts/419081)** \| **[备用](https://cdn.jsdelivr.net/gh/XIU2/UserScript@master/Zhihu-Enhanced.user.js)** |
 |  **Github 增强** | 高速下载 Clone、Release、Raw、Code(ZIP) 等文件、快捷下载... | **[安装](https://greasyfork.org/zh-CN/scripts/412245)** \| **[备用](https://cdn.jsdelivr.net/gh/XIU2/UserScript@master/GithubEnhanced-High-Speed-Download.user.js)** |
 |  **自动无缝翻页 \*** | 目前支持：423Down、Apphot(原烈火汉化)、小众软件... | **[安装](https://greasyfork.org/zh-CN/scripts/419215)** \| **[备用](https://cdn.jsdelivr.net/gh/XIU2/UserScript@master/Autopage.user.js)** |
