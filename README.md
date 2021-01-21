@@ -14,7 +14,7 @@
 
 > 详细的脚本介绍、使用说明、截图，请点击第三列的 **安装** 前往 GreasyFork 查看。  
 
-| 脚本名称 | 脚本功能 | 安装 \| 开源地址 || 备用 |
+| 脚本名称 | 脚本功能 | 安装 \| 备用 |
 | :---- | :---- | :----: |
 | **Listen1** | 宽屏显示、隐藏文章开头大图、文章编辑页面与实际文章宽度一致... | **[官网](https://listen1.github.io/listen1/)** \| **[备用](https://cdn.jsdelivr.net/gh/XIU2/UserScript@master/Zhihu-Beautification.user.js)** |
 | **知乎 增强** | 移除登录弹窗、一键收起回答、置顶显示时间、区分问题文章... | **[安装](https://greasyfork.org/zh-CN/scripts/419081)** \| **[备用](https://cdn.jsdelivr.net/gh/XIU2/UserScript@master/Zhihu-Enhanced.user.js)** |
