@@ -17,6 +17,8 @@
 | **** |  | **[官网]()** |
 | **** |  | **[官网]()** |
 
+# 目录
+
 <details>
 <summary>浏览器</summary>
 
@@ -36,15 +38,40 @@
 
 <details>
 <summary>云储存工具</summary>
+
 - 蓝奏云
 - 百度网盘
+</details>
+
+<details>
+<summary>视频播放器</summary>
+
+
+- **VLC media player**
 
 </details>
 
 <details>
-<summary>本地播放器</summary>
-<details><summary>音频播放器</summary>
-</details><summary>视频播放器</summary>
+<summary>音频播放器</summary>
+
+
+- **foobar2000**
 
 </details>
 
+<details>
+<summary>截图工具</summary>
+
+
+- **Snipaste**
+
+</details>
+
+<details>
+<summary>解压缩工具</summary>
+
+
+- **7-Zip**
+- ~~**Bandizip**~~
+
+</details>
