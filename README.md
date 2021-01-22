@@ -6,6 +6,7 @@
 | **7-Zip** | 解压缩工具 | **[官网](https://www.7-zip.org)** |
 | **火绒安全软件** | 杀毒软件 | **[官网]()** |
 | **Microsoft Edge** | 浏览器 | **[官网](https://www.microsoft.com/zh-cn/edge)** |
+<span id="蓝奏云"></span>
 | **蓝奏云** | 网盘 | **[开源地址](https://github.com/rachpt/lanzou-gui)** |
 | **Telegram** | 通讯软件 | **[官网](https://telegram.org)** |
 | **WeChat** | 通讯软件 | **[官网]()** |
