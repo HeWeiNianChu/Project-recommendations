@@ -80,4 +80,4 @@
 
 </details>
 
-<h1 id="1>Microsoft Edge</h1>
+<h5 id="1">Microsoft Edge</h5>
