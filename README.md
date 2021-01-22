@@ -1,4 +1,4 @@
-[Microsoft Edge](#Microsoft Edge)
+[文本](#文本)
 
 | 名字 | 类别 | 安装 | 其他 |
 | :---- | :---- | :----: | :----: |
@@ -77,5 +77,5 @@
 
 </details>
 
-Microsoft Edge
+文本
 ------
