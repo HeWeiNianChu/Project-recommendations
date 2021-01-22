@@ -77,4 +77,4 @@
 
 </details>
 
-<h2 id="1">1.语法示例</h2>
+<h2 id="1">Microsoft Edge</h2>
