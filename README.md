@@ -17,11 +17,8 @@
 | **** |  | **[官网]()** |
 | **** |  | **[官网]()** |
 
-
-
 <details>
 <summary>浏览器</summary>
-
 
 
 + **Microsoft Edge**
@@ -29,11 +26,8 @@
 
 </details>
 
-
-
 <details>
 <summary>通讯软件</summary>
-
 
 
 - **Telegram**
@@ -42,14 +36,10 @@
 
 </details>
 
-
-
 <details>
 <summary>云储存工具</summary>
 
-
-
-
 - 蓝奏云
 - 百度网盘
-<details>
+
+
