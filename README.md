@@ -16,3 +16,40 @@
 | **Vector Magic** | 图片矢量化工具 | **[官网](https://zh.vectormagic.com)** |
 | **** |  | **[官网]()** |
 | **** |  | **[官网]()** |
+
+
+
+<details>
+<summary>浏览器</summary>
+
+
+
++ **Microsoft Edge**
++ **Google Chrome**
+
+</details>
+
+
+
+<details>
+<summary>通讯软件</summary>
+
+
+
+- **Telegram**
+- **QQ轻聊版**
+- **微信(WeChat)**
+
+</details>
+
+
+
+<details>
+<summary>云储存工具</summary>
+
+
+
+
+- 蓝奏云
+- 百度网盘
+<details>
