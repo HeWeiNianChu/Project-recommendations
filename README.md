@@ -1,3 +1,5 @@
+[Microsoft Edge](#Microsoft Edge)
+
 | 名字 | 类别 | 安装 | 其他 |
 | :---- | :---- | :----: | :----: |
 | **Listen 1** | 在线音乐播放器 | **[官网](https://listen1.github.io/listen1)** |
