@@ -20,7 +20,6 @@
 <details>
 <summary>浏览器</summary>
 
-
 + **Microsoft Edge**
 + **Google Chrome**
 
@@ -28,7 +27,6 @@
 
 <details>
 <summary>通讯软件</summary>
-
 
 - **Telegram**
 - **QQ轻聊版**
@@ -38,15 +36,15 @@
 
 <details>
 <summary>云储存工具</summary>
-
 - 蓝奏云
 - 百度网盘
 
 </details>
 
 <details>
-<summary>本地播放器</summary><details><summary>音频播放器</summary></details><summary>视频播放器</summary></details>
+<summary>本地播放器</summary>
+<details><summary>音频播放器</summary>
+</details><summary>视频播放器</summary>
 
 </details>
-
 
