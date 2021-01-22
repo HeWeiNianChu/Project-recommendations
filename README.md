@@ -23,7 +23,7 @@
 <details>
 <summary>浏览器</summary>
 
-+ [Microsoft Edge](#Microsoft Edge)
++ [Microsoft Edge](#1)
 + **Google Chrome**
 
 </details>
@@ -77,5 +77,4 @@
 
 </details>
 
-文本
-------
+<h2 id="1">1.语法示例</h2>
